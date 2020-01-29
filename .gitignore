@@ -1,0 +1,3 @@
+*.npy
+*.dat
+.DS_store
